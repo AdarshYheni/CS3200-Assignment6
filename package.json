@@ -1,0 +1,26 @@
+{
+  "name": "cs3200-assignment6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshYheni/CS3200-Assignment6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdarshYheni/CS3200-Assignment6/issues"
+  },
+  "homepage": "https://github.com/AdarshYheni/CS3200-Assignment6#readme",
+  "dependencies": {
+    "dotenv": "^17.4.1",
+    "mongodb": "^7.1.1",
+    "redis": "^5.11.0"
+  }
+}
